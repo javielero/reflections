@@ -1,0 +1,37 @@
+Reflect: Using diff to Find Bugs
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+  Using diff - u, helped to see changes to a file that were resulting in a bug.
+  It works by showing you the difference between two files, but it is not able to
+  pinpoint the exact line the change was made, thus it is recommended to keep your lines
+  shorter than 120 characters.
+
+Reflect: Using History for Efficiency:
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+  If you were to make a mistake in your code, or implement a feature that is bugged, you would be able to roll back to a previous version of your code.
+
+Reflect: Manual Commits
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+  Automatic saves could lead to cluttered commit history without logical usefulness. It is better to create a commit manually in order to have a logical history to your commits.
+
+Reflect: Multi-File Commits
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+  Files sometimes depend on each other, and a version control system makes it easy to track and save all the changes across multiple files in one commit.
+
+Reflect: Using Git to View History
+How can you use the commands git log and git diff to view the history of files?
+
+  Git log will provide you with a history of all your commits. Git diff would allow you to see the difference between two commits by using git diff first_id second_id.
+
+Reflect: Confidence from Version Control
+How might using version control make you more confident to make changes that could break something?
+
+  Since Git has a way for you to checkout previous versions of your code, I can be confident I will always be able to have a peek at previous change and determine where a bug was introduced. As long as I commit logically.
+
+Reflect: How Do You Want to Use Git?
+Now that you have your workspace set up, what do you want to try using Git for?
+
+  I plan to use github for web development.
