@@ -1,0 +1,9 @@
+Reflect: Initializing a Repository
+What happens when you initialize a repository? Why do you need to do it?
+
+  Initializing a repository is telling git, where the files are going to be for this project.
+
+Reflect: Staging Area
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+  The staging area gives you an opportunity review the files you are adding to the repository. It is the middle area between the working directory and the repository.
