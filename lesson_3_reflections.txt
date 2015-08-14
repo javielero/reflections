@@ -1,0 +1,4 @@
+Reflect: Using a remote repository
+When would you want to use a remote repository rather than keeping all your work local?
+  
+  A remote repository using a site like Github allows you to share your work with others, as well as access to your work from different computers, and a visual interface.
