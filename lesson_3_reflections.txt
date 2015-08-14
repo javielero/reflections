@@ -11,4 +11,4 @@ Why might you want to always pull changes manually rather than having Git automa
 Reflect: Forks, Clones, and Branches
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
-  A fork allows you essentially clone someone else's work onto your Github account with the added benefit of giving them credit and tracking data. A clone is copying someone's work onto your git workspace. Commits operate on branches, they are the structure of your changes (comits).
+  A fork allows you essentially clone someone else's work onto your Github account with the added benefit of giving them credit and tracking data. A clone is copying someone's work onto your git workspace. Commits operate on branches, they are the structure of your changes (commits).
