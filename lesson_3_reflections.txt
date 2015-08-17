@@ -12,3 +12,13 @@ Reflect: Forks, Clones, and Branches
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
   A fork allows you essentially clone someone else's work onto your Github account with the added benefit of giving them credit and tracking data. A clone is copying someone's work onto your git workspace. Commits operate on branches, they are the structure of your changes (commits).
+
+Reflect: Local copies of remote branches
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+  You can continue working on your project without the need for internet, and push your changes onto the remote later on.
+
+Reflect: Collaboration using Git and GitHub
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+  Git and Github are optimized to work together in a production environment. You could certainly try to work without it, but there might be issues when multiple people are trying to work on the same project and sending different changes to it. A lot more communication would be needed in order to avoid bugs and miscommunication.
