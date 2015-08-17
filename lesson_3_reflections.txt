@@ -22,3 +22,8 @@ Reflect: Collaboration using Git and GitHub
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
   Git and Github are optimized to work together in a production environment. You could certainly try to work without it, but there might be issues when multiple people are trying to work on the same project and sending different changes to it. A lot more communication would be needed in order to avoid bugs and miscommunication.
+
+Reflect: When to use a separate branch
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+  You might want to make changes in a separate branch when working in collaboration, that way your colleagues will be able to checkout your changes before they are merged into master. Working in master is less complicated and faster.
